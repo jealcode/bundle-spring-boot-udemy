@@ -1,0 +1,13 @@
+.idea
+example.iml
+/.settings
+/bin
+HELP.md
+.classpath
+.project
+mvnw
+mvnw.cmd
+/.mvn
+.git
+/target
+dependency-reduced-pom.xml
